@@ -3,6 +3,9 @@
 Chrome extension that automatically routes tabs from configured sites into
 dedicated tab groups. See [PROJECT.md](PROJECT.md) for the full spec.
 
+<img width="334" height="562" alt="image" src="https://github.com/user-attachments/assets/fce0469e-e993-4654-8115-c282e49a65f0" />
+
+
 ## Configure
 
 Workspace host lists live in `src/sites.ts`, which is **gitignored** so private
