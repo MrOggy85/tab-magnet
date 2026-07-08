@@ -1,0 +1,5 @@
+node_modules/
+dist/
+
+# Private host lists — copy sites.example.ts to sites.ts (see README)
+src/sites.ts

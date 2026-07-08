@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "TabMagnet",
+  "version": "1.0.0",
+  "description": "Automatically routes tabs from configured sites into dedicated Chrome windows and tab groups.",
+  "background": {
+    "service_worker": "dist/background.js",
+    "type": "module"
+  },
+  "permissions": ["tabs", "tabGroups"]
+}

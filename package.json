@@ -1,0 +1,15 @@
+{
+  "name": "tab-magnet",
+  "version": "1.0.0",
+  "description": "Automatically routes tabs from configured sites into dedicated Chrome windows and tab groups.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "test": "node --test \"test/**/*.test.ts\""
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}
